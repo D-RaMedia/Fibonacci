@@ -7,3 +7,5 @@
 #### Once i had completed this I added a few sound effects and then finished the project.
 
 #### The android test worked in the beginning while testing with some friends, but at the finished product unity didnt detect my phone anymore. Hopefully the result will be different one this project will be reviewed
+
+#### Once you begin the sequence, the first few numbers will be null. This is because hese will be counted as 0, and you can add these up with eachother.
